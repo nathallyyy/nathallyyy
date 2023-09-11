@@ -17,3 +17,15 @@ Tenho 15 anos, moro em São José das Palmeiras/pr e soua aluna da disciplina de
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
 </code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+
+</br>
+</br>
+<div display="inline-block">
+<p alingn="left"> Sou aluna do CE São José </p>
+<p alingn="left"> Estou estudando HTML5, CSS3 E JAVASCRIPT </p>
+
+</br>
+Você pode falar comigo pelo [instagram](https://www.instagram.com/nathalysilva__) e pode conhecer meus projetos já desenvolvidos, estão disponíveis aqui nos repositórios.
+
+</br>
+
